@@ -1,3 +1,3 @@
-# TEST
+# MY NOTEBOOKS
 
-just a test
+Repository of my first attempts at coding with Python
